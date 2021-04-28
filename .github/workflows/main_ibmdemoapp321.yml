@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'ibmdemoapp321'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_35576a6dd8d34bffbbdfb63f1ab1c4cb }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_abf63af642864a9081d3c6377204dceb }}
